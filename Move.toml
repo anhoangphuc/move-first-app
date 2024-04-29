@@ -6,5 +6,5 @@ version = "0.0.0"
 AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework", rev = "mainnet" }
 
 [addresses]
-my_addr = "0x42"
+my_addr = "0x1660a18c2ab215d194c65035362048d952d6579fe98435b9ff193fde8673813d"
 std = "0x1"
